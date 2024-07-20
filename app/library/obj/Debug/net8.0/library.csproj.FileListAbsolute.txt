@@ -1,0 +1,12 @@
+D:\Desktop\programing\C#\test\app\library\bin\Debug\net8.0\library.deps.json
+D:\Desktop\programing\C#\test\app\library\bin\Debug\net8.0\library.dll
+D:\Desktop\programing\C#\test\app\library\bin\Debug\net8.0\library.pdb
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.csproj.AssemblyReference.cache
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.AssemblyInfoInputs.cache
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.AssemblyInfo.cs
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.csproj.CoreCompileInputs.cache
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.dll
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\refint\library.dll
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\library.pdb
+D:\Desktop\programing\C#\test\app\library\obj\Debug\net8.0\ref\library.dll
